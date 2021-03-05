@@ -1,0 +1,14 @@
+Package: com.crackmyapple.bettersb
+Name: betterSB
+Version: 0.1-24
+Architecture: iphoneos-arm
+Description: All in one Springboard customization!
+Maintainer: crackmyapple
+Author: crackmyapple
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.crackmyapple.bettersb_0.1-24_iphoneos-arm.deb
+Size: 59498
+MD5sum: 
+SHA1: 
+SHA256: 
